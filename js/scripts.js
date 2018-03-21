@@ -1,6 +1,5 @@
-
 var n = 8;
-var	i;
+var i;
 var j;
 function drawTree(n) {
 	var star;
