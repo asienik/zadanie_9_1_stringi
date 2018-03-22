@@ -1,7 +1,6 @@
-var n = 8;
-var i;
-var j;
 function drawTree(n) {
+	var i;
+	var j;
 	var star;
 	for(i=0; i<n; i++) {
 		var star = "";
@@ -11,4 +10,5 @@ function drawTree(n) {
 		console.log(star);
 	}
 }
-drawTree(n);
+drawTree(8);
+
